@@ -1,6 +1,6 @@
 # 🏗️ ARQUITECTURA OFICIAL
 
-# Herramientas360 Template
+# Herramientas360 — Arquitectura del proyecto
 
 Versión 3.0
 
@@ -8,7 +8,7 @@ Versión 3.0
 
 # Objetivo
 
-La Template Herramientas360 v3.0 será la base oficial para todas las herramientas futuras.
+El sistema Herramientas360 v3.0 constituye la base visual y técnica de esta herramienta.
 
 Debe ser modular, reutilizable, rápida de mantener y fácil de ampliar.
 

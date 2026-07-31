@@ -1,16 +1,16 @@
-# 🧰 Herramientas360 Template v3.0 Stable
+# 🧰 sistema Herramientas360 v3.0
 
-> Plantilla oficial para el desarrollo de todas las herramientas de Herramientas360.
+> Base visual oficial para el desarrollo de todas las herramientas de Herramientas360.
 
 ---
 
 # 📖 Descripción
 
-Herramientas360 Template es la base oficial utilizada para crear todas las herramientas del proyecto Herramientas360.
+sistema Herramientas360 es la base oficial utilizada para crear todas las herramientas del proyecto Herramientas360.
 
 Su objetivo es permitir desarrollar nuevas herramientas de forma rápida, manteniendo siempre la misma calidad, estructura, diseño y optimización SEO.
 
-Todas las herramientas creadas a partir de esta plantilla comparten:
+Todas las herramientas creadas a partir de esta base visual comparten:
 
 - Diseño responsive
 - SEO optimizado
@@ -22,13 +22,13 @@ Todas las herramientas creadas a partir de esta plantilla comparten:
 
 ---
 
-# 🎯 Objetivos de la plantilla
+# 🎯 Objetivos de la base visual
 
-La plantilla ha sido diseñada para que crear una nueva herramienta sea un proceso sencillo.
+La base visual ha sido diseñada para que crear una nueva herramienta sea un proceso sencillo.
 
 El flujo de trabajo ideal es:
 
-1. Duplicar la plantilla.
+1. Duplicar la base visual.
 2. Cambiar la configuración.
 3. Escribir el cálculo.
 4. Publicar.
@@ -57,7 +57,7 @@ Cada herramienta debe cumplir estos principios:
 # 📂 Estructura del proyecto
 
 ```text
-herramientas360-template/
+herramientas360-v3/
 
 css/
     style.css
@@ -202,7 +202,7 @@ Todas las herramientas de Herramientas360 deben seguir siempre el mismo proceso.
 
 ## Paso 1
 
-Duplicar la carpeta de la plantilla.
+Duplicar la carpeta de la base visual.
 
 Renombrar la carpeta con el nombre del nuevo proyecto.
 
@@ -310,7 +310,7 @@ Actualizar robots.txt
 
 Cambiar:
 
-NOMBRE_PROYECTO
+calculadora-porcentaje-masa-muscular
 
 ---
 
@@ -513,7 +513,7 @@ Para mantener una base de código uniforme, todas las herramientas deben seguir 
 
 - Utilizar HTML5 semántico.
 - Mantener comentarios por secciones.
-- Respetar la estructura oficial de la plantilla.
+- Respetar la estructura oficial de la base visual.
 - No añadir estilos inline.
 
 ---
@@ -573,7 +573,7 @@ Separar palabras con guiones.
 
 # 🔖 Versionado
 
-La plantilla utiliza versionado semántico.
+La base visual utiliza versionado semántico.
 
 Ejemplos:
 
@@ -599,7 +599,7 @@ Incrementar versión principal.
 
 Antes de crear una nueva herramienta comprobar:
 
-- Última versión de la plantilla.
+- Última versión de la base visual.
 - Posibles mejoras pendientes.
 - Compatibilidad con herramientas anteriores.
 
@@ -629,17 +629,17 @@ Posibles mejoras futuras:
 
 - Modo sin conexión.
 
-Estas mejoras deberán incorporarse únicamente en nuevas versiones de la plantilla.
+Estas mejoras deberán incorporarse únicamente en nuevas versiones de la base visual.
 
 ---
 
 # 📋 Filosofía de Herramientas360
 
-La prioridad del proyecto no es crear una plantilla perfecta.
+La prioridad del proyecto no es crear una base visual perfecta.
 
 La prioridad es crear herramientas útiles.
 
-La plantilla existe para acelerar el desarrollo.
+La base visual existe para acelerar el desarrollo.
 
 Una vez publicada una versión estable:
 
@@ -655,7 +655,7 @@ Nueva idea
 
 ↓
 
-Duplicar plantilla
+Duplicar base visual
 
 ↓
 
@@ -701,9 +701,9 @@ La calidad siempre estará por encima de la cantidad.
 
 ---
 
-# 🏁 Estado de la plantilla
+# 🏁 Estado de la base visual
 
-**Herramientas360 Template v3.0 Stable**
+**sistema Herramientas360 v3.0**
 
 Estado:
 
@@ -726,3 +726,12 @@ con la asistencia de ChatGPT.
 © 2026 Herramientas360
 
 Todos los derechos reservados.
+
+## URL pública
+
+https://tpz4hm662z-rgb.github.io/calculadora-porcentaje-masa-muscular/
+
+
+## Versión publicada
+
+1.0.1 — 31 de julio de 2026.
