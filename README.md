@@ -729,7 +729,9 @@ Todos los derechos reservados.
 
 ## URL pública
 
-https://tpz4hm662z-rgb.github.io/calculadora-porcentaje-masa-muscular/
+[Abrir la Calculadora de Porcentaje de Masa Muscular Pro](https://tpz4hm662z-rgb.github.io/calculadora-porcentaje-masa-muscular/)
+
+Repositorio: [tpz4hm662z-rgb/calculadora-porcentaje-masa-muscular](https://github.com/tpz4hm662z-rgb/calculadora-porcentaje-masa-muscular)
 
 
 ## Versión publicada
